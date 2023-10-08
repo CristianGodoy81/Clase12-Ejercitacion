@@ -24,5 +24,4 @@ let concesionaria={
         return null;
     }
 }
-//console.log(autosImportados);
-console.log(concesionaria.buscarAuto("JJK116"));
+//console.log(concesionaria.buscarAuto("JJK116"));
