@@ -40,5 +40,5 @@ let concesionaria={
         })
     },
 }
-console.log(concesionaria.autosNuevos());
+//console.log(concesionaria.autosNuevos());
 //console.log(concesionaria.autos);
